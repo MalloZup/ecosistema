@@ -9,3 +9,4 @@ Currently contains:
 
 ##  -  presentations
 ##  -  tech. mindmaps
+##  -  blog
