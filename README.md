@@ -1,8 +1,11 @@
 # ecosistema
 
-Meta-repository.
+![ecosistema](ecosistema.jpeg)
+
+
+# Meta-repository.
 
 Currently contains:
 
--  presentations
--  tech. mindmaps
+##  -  presentations
+##  -  tech. mindmaps
