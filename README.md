@@ -5,8 +5,6 @@
 
 # Meta-repository.
 
-Currently contains:
-
-##  -  presentations
-##  -  tech. mindmaps
-##  -  blog
+##  [presentations](presentations)
+##  [mindmaps](mindmaps)
+##  [blog](blog)
