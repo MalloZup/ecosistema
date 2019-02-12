@@ -7,7 +7,8 @@ There's just so much positive to say about this book.
 
 This book is not the classic book about programming and is not a book that you read quickly.
 
-You will need to allocate time but not because it is big book, but in order to experiment the various tips/techniques that the author suggest you.
+You will need to allocate some time for reading it. 
+It is not a  big book, but you will need time in  order to experiment the various tips/techniques that the author suggest you.
 
 And also you will need to take time to reflect about the content and make it yours.
 
