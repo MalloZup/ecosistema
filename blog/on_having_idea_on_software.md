@@ -4,7 +4,7 @@ When you work on  bigger, cordinated codebases, you might follow a design model 
 
 This is fine since we don't spend time on examine that algorithm, design.
 
-For example if you are doing a [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) Application, you follow in the global design the MVC design, allthough in software we can analyze design vertically, so that even if your design is a MVC on the bigger view, on the low level you will have another design paradigm.
+For example if you are doing a [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) Application, you follow the global design the MVC design, allthough in software we can analyze design vertically, so that even if your design is a MVC on the bigger view, on the low level you will have another design paradigm.
 
 When we code lot of code or the tasks is not super difficult, we have the impression to be on a "flow" condition; beeing in a flow condition is benifical for a creative human, but software as other creative activities follow a design model which might to be discussed from time to time, or maybe not at all.
 
